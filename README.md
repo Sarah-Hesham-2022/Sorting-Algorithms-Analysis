@@ -54,7 +54,7 @@ For more detailed insights, you can check out the performance plots and data in 
 
 ## 📚 Documentation
 - **[Detailed Report](./Report.pdf)**: In-depth analysis of the performance metrics, methodology, and conclusions.
-- **Data Tables**: [Execution Time Table](https://github.com/user-attachments/assets/3c121a56-8320-43d5-a298-e445feb7152e)
+- **Data Tables**: ![Execution Time Table](https://github.com/user-attachments/assets/3c121a56-8320-43d5-a298-e445feb7152e)
 
-                   [Memory Usage Table](https://github.com/user-attachments/assets/e514cdaa-8f05-4b1e-afd6-5964120635f8)
+                   ![Memory Usage Table](https://github.com/user-attachments/assets/e514cdaa-8f05-4b1e-afd6-5964120635f8)
 
