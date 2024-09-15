@@ -43,17 +43,18 @@ For more detailed insights, you can check out the performance plots and data in 
 
 ## 🖼️ Visualizations
 ### Average Execution Time Plot
-![Execution Time]![Plot 4](https://github.com/user-attachments/assets/d5736d4d-a4ca-4be1-9aae-466c5710dc22)
+![Execution Time](https://github.com/user-attachments/assets/d5736d4d-a4ca-4be1-9aae-466c5710dc22)
 
 ### Memory Usage Plot
-![Memory Usage]![Plot 2](https://github.com/user-attachments/assets/126dec6c-053b-4d7b-8bb7-099649db6184)
+![Memory Usage](https://github.com/user-attachments/assets/126dec6c-053b-4d7b-8bb7-099649db6184)
 
 ### Combined Performance Analysis
-![Performance Analysis]![Plot 3](https://github.com/user-attachments/assets/f0ce89d1-9e70-4b0f-be2f-21a334b50bbf)
+![Performance Analysis](https://github.com/user-attachments/assets/f0ce89d1-9e70-4b0f-be2f-21a334b50bbf)
 
 
 ## 📚 Documentation
 - **[Detailed Report](./Report.pdf)**: In-depth analysis of the performance metrics, methodology, and conclusions.
-- **Data Tables**: [Execution Time Table]![Table 1](https://github.com/user-attachments/assets/3c121a56-8320-43d5-a298-e445feb7152e)
- | [Memory Usage Table]![Table 2](https://github.com/user-attachments/assets/e514cdaa-8f05-4b1e-afd6-5964120635f8)
+- **Data Tables**: [Execution Time Table](https://github.com/user-attachments/assets/3c121a56-8320-43d5-a298-e445feb7152e)
+
+                   [Memory Usage Table](https://github.com/user-attachments/assets/e514cdaa-8f05-4b1e-afd6-5964120635f8)
 
