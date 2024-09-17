@@ -12,8 +12,8 @@ The implementation was done in Python and includes detailed performance evaluati
 The primary goal of this project is to provide a deep understanding of the efficiency, scalability, and limitations of these algorithms. By comparing their performance, we can identify the optimal sorting algorithm for different types of data and use cases.
 
 ## Sorting Algorithms Implemented
-- **Quick Sort**: A divide-and-conquer algorithm known for its average-case \(O(n \log n)\) efficiency.
-- **Heap Sort**: A comparison-based sorting algorithm using a binary heap data structure with \(O(n \log n)\) time complexity.
+- **Quick Sort**: A divide-and-conquer algorithm known for its average-case \(O(nlog n)\) efficiency.
+- **Heap Sort**: A comparison-based sorting algorithm using a binary heap data structure with \(O(nlog n)\) time complexity.
 - **Count Sort**: A non-comparison integer sorting algorithm that operates with linear time \(O(n+k)\), where \(k\) is the range of the input data.
 - **Radix Sort**: A non-comparative integer sorting algorithm that sorts digit by digit with \(O(nk)\) complexity.
 - **Bucket Sort**: A distribution-based sorting algorithm that works by dividing elements into buckets and sorting each bucket individually, performing best with uniformly distributed data.
